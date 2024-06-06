@@ -10,3 +10,8 @@ Computer Science Side Project.  Details to be filled out later
 - Cryptocurrency Walet
 - Data Visualization Dashboard
 - Portfolio Website
+# # Languages To Implement
+- Front End | React.js, NextJS, JavaScript, HTML/CSS, jQuery, TypeScript, Bootstrap
+- Back End | Golang, Java, C, C++, Python, Ruby, Node.js, SQL, Rust, PHP
+- Developer Tools | Docker, Git, Github, Replit, Visual Studio Code, Agile Methodology
+  
